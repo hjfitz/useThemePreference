@@ -1,0 +1,14 @@
+{
+  "name": "useThemePreference",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:hjfitz/useThemePreference.git",
+  "author": "Harry Fitzgerald <harry.f@elanco.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/react": "^16.9.32",
+    "parcel": "^1.12.4",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  }
+}
